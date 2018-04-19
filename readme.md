@@ -1,3 +1,3 @@
 Static HTML site made with Bootstrap
 
-<code>mpieszczyk.github.io/eps-pl</code>
+<code>https://mpieszczyk.github.io/eps-pl</code>
